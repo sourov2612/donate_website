@@ -98,13 +98,88 @@ body{
 /* Donate today section */
 
 
-#donate_plan{
+#donate_idea{
   margin-top: 150px;
 } 
 
 .body_text_h1{
   font-size: 50px;
 }
+
+.donate_plan{
+  display: flex; 
+  margin-left: 80px; 
+  margin-right: 80px;
+} 
+
+.plan{
+  margin-left: 20px;
+  margin-right: 20px;  
+  margin-bottom: 70px;
+  padding: 40px 20px; 
+  border-radius: 7px;
+}
+
+#food{
+  background-color: #d6efdb;
+} 
+#shelter{
+  background-color: #eadfe6;
+}
+#education{
+  background-color: #d6d8e8;
+}
+
+
+
+
+
+/* How to contribute */ 
+
+.contribute{
+  display: flex;
+}
+
+.content{
+  width: 50%; 
+  margin-left: 120px; 
+  margin-top: 100px; 
+}
+
+.content img{
+  width: 500px;
+  height: 500px; 
+  padding-right: 500px;
+}
+
+.contri_p{
+  padding-bottom: 30px;
+}
+
+
+
+.contribute2{
+  display: flex;
+}
+
+.content2{
+  width: 50%; 
+  margin-right: 140px; 
+  margin-top: 100px; 
+}
+
+.content2 img{
+  width: 500px;
+  height: 500px; 
+  padding-left: 120px;
+}
+
+
+
+
+
+
+
 
 
 
