@@ -160,6 +160,7 @@ body{
 
 .contribute2{
   display: flex;
+  margin-bottom: 100px;
 }
 
 .content2{
@@ -175,6 +176,78 @@ body{
 }
 
 
+/* contact section */ 
+
+.contact{
+  display: flex; 
+}
+
+.main_contact{
+  text-align: center;
+  background-color: #e1d8dd; 
+  padding: 100px 200px; 
+  width: 40%; 
+  margin-left: 250px; 
+  border-radius: 10px;
+} 
+
+.connection{
+  font-size: 20px; 
+  text-decoration: none; 
+  border-radius: 10px;
+}
+
+#email{
+  padding-top: 15px; 
+  padding-bottom: 15px;
+  padding-left: 15px;
+  padding-right: 300px; 
+  text-decoration: none;
+  background-color: #b6babc;
+}
+
+#subscribtion{
+  padding: 15px 30px;
+  text-decoration: none; 
+  margin-left: 10px; 
+  background-color: #ba0707; 
+  color: white;
+} 
+
+#sub{
+  color: white;
+  text-decoration: none;
+}
+
+#mail{
+  color: rgb(0, 0, 0);
+  text-decoration: none;
+}
+
+
+
+
+
+
+
+/* Footer part */
+
+
+footer{
+  text-align: center;
+  background-color: black;
+}
+
+footer h2{
+  color: rgb(188, 31, 31); 
+  padding-top: 25px;
+  font-style: italic;
+}
+
+footer p{
+  color: white;
+  padding-bottom: 25px;
+}
 
 
 
