@@ -1,0 +1,120 @@
+body{
+  font-family: 'Poppins', sans-serif; 
+  margin: 0; 
+} 
+
+
+/* Header section */
+
+.header{
+  background-image: url(picture/banner.jpg); 
+  background-repeat: no-repeat; 
+  background-position: top center;
+  background-attachment: fixed;
+  background-size: 100%;
+  height: 700px;  
+  text-align: center; 
+  padding-top: 200px;
+} 
+
+.font_size{
+  font-size: 65px;
+  color: rgb(254, 253, 253);
+  margin-bottom: -10px;
+} 
+#h11{
+  margin-bottom: -60px;
+}
+.peragraph{
+  font-size: 18px;
+  color: white; 
+} 
+#p22{
+  margin-bottom: 40px;
+}
+
+
+.donate_now{
+  text-decoration: none;
+  padding: 18px 16px; 
+  margin-top: 100px; 
+  color: rgb(249, 247, 246); 
+  font-size: 20px;
+  border-radius: 10px;
+  background-color: #d13014;
+}
+
+
+
+
+/* Donate Today section */ 
+
+.donate_today{
+  text-align: center; 
+  margin-top: 80px; 
+  margin-bottom: 80px;
+} 
+
+.taka{
+  text-align: center;
+}
+
+.taka_box{
+  text-align: center;
+  text-decoration: none; 
+  margin-left: 6px; 
+  margin-right: 6px;
+  margin-top: 500px;  
+  padding: 40px 40px; 
+  border-radius: 5px; 
+  background-color: #f3f1f1; 
+  color: black; 
+  font-weight: bold; 
+  font-size: 25px;
+} 
+
+#taka_highlight{
+  border: 2px solid red;
+  color: red;
+} 
+
+
+
+.other_amount{
+  text-align: center;
+  margin-top: 100px;
+} 
+
+#another_amount{
+  font-weight: initial; 
+  text-decoration: underline; 
+  font-style: italic; 
+  margin-bottom: 50px;
+}  
+
+
+
+
+/* Donate today section */
+
+
+#donate_plan{
+  margin-top: 150px;
+} 
+
+.body_text_h1{
+  font-size: 50px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
